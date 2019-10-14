@@ -704,6 +704,7 @@
 		Portuguese:"Barcos de pesca"
 		German:"Fischerboote"
 		Russian:"Рыбацкие лодки"
+		Dutch:"Vissersboten"
 	}
 	
 	"Road":{
@@ -723,6 +724,7 @@
 		Simplified_Chinese:"拆毁道路"
 		French:"Retirer la route"
 		Russian:"Убрать дорогу"
+		Dutch:"Verwijder weg"
 	}
 
 	"Railroad":{
@@ -742,6 +744,7 @@
 		Simplified_Chinese:"拆除铁路"
 		French:"Retirer les rails"
 		Russian:"Убрать железную дорогу"
+		Dutch:"Verwijder spoorweg"
 	}
 
 	"Remove Forest":{
@@ -753,6 +756,7 @@
 		Simplified_Chinese:"砍伐森林"
 		Portuguese:"Cortar floresta"
 		German:"Wald abholzen"
+		Dutch:"Verwijder bos"
 	}
 
 	"Remove Jungle":{
@@ -764,6 +768,7 @@
 		Simplified_Chinese:"砍伐丛林"
 		Portuguese:"Cortar selva"
 		German:"Dschungel abholzen"
+		Dutch:"Verwijder oerwoud"
 	}
 
 	"Remove Marsh":{
@@ -775,6 +780,7 @@
 		Simplified_Chinese:"移除沼泽"
 		Portuguese:"Drenar pântano"
 		German:"Moor trockenlegen"
+		Dutch:"Verwijder moeras"
 	}
 	
 	"Ancient ruins":{
@@ -856,6 +862,7 @@
 		Italian:"Accampamento barbaro"
 		Simplified_Chinese:"蛮族营地"
 		Russian:"Лагерь варваров"
+		Dutch:"Barbarenkamp"
 	}
 
 }
