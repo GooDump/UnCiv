@@ -6,7 +6,7 @@
 		Russian:"Земледелие"
 		French:"Agriculture"
 		Romanian:"Agricultură"
-		Dutch:"Agricultuur"
+		Dutch:"Landbouw"
 		Spanish:"Agricultura"
 		Simplified_Chinese:"农业"
 		Portuguese:"Agricultura"
@@ -24,7 +24,7 @@
 		French:"Poterie"
 		Romanian:"Ceramică"
 		German:"Töpferkunst"
-		Dutch:"Aardwerk"
+		Dutch:"Aardewerk"
 		Spanish:"Cerámica"
 		Simplified_Chinese:"制陶"
 		Portuguese:"Cerâmica"
@@ -160,7 +160,7 @@
 		French:"La roue"
 		Romanian:"Roata"
 		German:"Das Rad"
-		Dutch:"Het Wiel"
+		Dutch:"Het wiel"
 		Spanish:"La rueda"
 		Simplified_Chinese:"轮子"
 		Portuguese:"A roda"
@@ -194,7 +194,7 @@
 		French:"Travail du bronze"
 		Romanian:"Prelucrarea bronzului"
 		German:"Bronze Bearbeitung"
-		Dutch:"Brons Bewerking"
+		Dutch:"Bronsbewerking"
 		Spanish:"Trabajo del bronce"
 		Simplified_Chinese:"青铜器"
 		Portuguese:"Trabalha com Bronze"
@@ -332,7 +332,7 @@
 		French:"Travail du fer"
 		Romanian:"Prelucrarea fierului"
 		German:"Eisen Bearbeitung"
-		Dutch:"Ijzer Bewerking"
+		Dutch:"Ijzerbewerking"
 		Spanish:"Trabajo del hierro"
 		Simplified_Chinese:"铁器"
 		Portuguese:"Trabalho com ferro"
@@ -384,6 +384,7 @@
 		Simplified_Chinese:"允许签订开放边境协定"
 		French:"Permet l'accord des frontières ouvertes"
 		Russian:"Открывает Договор об открытых границах"
+		Dutch:"Staat open grenzen toe"
 	}
 	
 	"Guilds":{
@@ -391,7 +392,7 @@
 		Russian:"Гильдии"
 		French:"Guildes"
 		Romanian:"Bresle"
-		Dutch:"Gildes"
+		Dutch:"Gilden"
 		Spanish:"Gremios"
 		Simplified_Chinese:"行会"
 		Portuguese:"Guildas"
@@ -702,7 +703,7 @@
 		French:"Théorie scientifique"
 		Romanian:"Teorie științifică"
 		German:"Wissenschaftliche Theorie"
-		Dutch:"Wetenschappelijke Theorie"
+		Dutch:"Wetenschappelijke theorie"
 		Spanish:"Teoría científica"
 		Simplified_Chinese:"科学理论"
 		Portuguese:"Teoria científica"
@@ -769,7 +770,7 @@
 		Russian:"Военная наука"
 		French:"Science militaire"
 		Romanian:"Știință militară"
-		Dutch:"Militaire Wetenschap"
+		Dutch:"Militaire wetenschap"
 		Spanish:"Ciencia militar"
 		Simplified_Chinese:"军事科学"
 		Portuguese:"Ciência militar"
@@ -893,6 +894,7 @@
 		German:"Ersetzbare Teile"
 		French:"Pièces de rechange"
 		Russian:"Сменные части"
+		Dutch:"Vervangbare onderdelen"
 	}
 
 	"'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford":{
@@ -940,7 +942,7 @@
 		French:"Matières plastiques"
 		Romanian:"Materiale plastice"
 		German:"Plastik"
-		Dutch:"Plastic"
+		Dutch:"Plastiek"
 		Spanish:"Plástico"
 		Simplified_Chinese:"塑料"
 		Portuguese:"Plásticos"
@@ -990,7 +992,7 @@
 		French:"Médias de masse"
 		Romanian:"Mass media"
 		German:"Massenmedien"
-		Dutch:"Massa Media"
+		Dutch:"Massamedia"
 		Spanish:"Medios de comunicación"
 		Simplified_Chinese:"大众传媒"
 		Portuguese:"Mídia de massa"
@@ -1002,7 +1004,7 @@
 		French:"Aviation"
 		Romanian:"Aviație"
 		German:"Flug"
-		Dutch:"Vlucht"
+		Dutch:"Vliegen"
 		Spanish:"Vuelo"
 		Simplified_Chinese:"航空"
 		Portuguese:"Vôo"
@@ -1041,6 +1043,7 @@
 		Italian:"Radar"
 		Russian:"Радар"
 		Simplified_Chinese:"雷达"
+		Dutch:"Radar"
 	}
 
 	"'Vision is the art of seeing things invisible.' - Jonathan Swift":{
@@ -1054,7 +1057,7 @@
 		French:"Théorie atomique"
 		Romanian:"Teoria atomică"
 		German:"Atomtheorie"
-		Dutch:"Atoom theorie"
+		Dutch:"Atoomtheorie"
 		Spanish:"Teoría atómica"
 		Simplified_Chinese:"原子理论"
 		Portuguese:"Teoria atômica"
@@ -1100,6 +1103,7 @@
 		German:"Verbundene Waffen"
 		Spanish:"Fuerzas combinadas"
 		Simplified_Chinese:"协同作战"
+		Dutch:"Gecombineerde wapens"
 	}
 
 	"'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises":{
@@ -1182,6 +1186,7 @@
 		French:"Lasers"
 		Russian:"Лазеры"
 		Simplified_Chinese:"激光"
+		Dutch:"Lasers"
 	}
 
 	"'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12":{
@@ -1246,7 +1251,7 @@
 		French:"Technologie future"
 		Romanian:"Tehnologia viitorului"
 		German:"Zukunftstechnologien"
-		Dutch:"Toekomst Technologie"
+		Dutch:"Toekomstige technologie"
 		Spanish:"Tecnología del futuro"
 		Simplified_Chinese:"未来科技"
 		Portuguese:"Tecnologia futurista" //means futuristic technology (not sure but i'll say that's right anyway)
@@ -1262,7 +1267,7 @@
 		Russian:"Кто знает, что ждет в будущем?"
 		French:"Qui sait ce que l'avenir réserve?"
 		Romanian:"Cine poate ști ce ne rezervă viitorul?"
-		Dutch:"Wie weet wat de toekomst inhoud?"
+		Dutch:"Wie weet wat de toekomst inhoudt?"
 		Spanish:"¿Quién sabe qué nos depara el futuro?"
 		Simplified_Chinese:"谁知道未来会怎样？"
 		Portuguese:"Quem sabe o que o futuro reserva?"
@@ -1288,6 +1293,7 @@
 		Portuguese:"+10% de produção de ciência em todas as cidades"
 		German:"+10% Wissenschaft und Produktion in allen Städten"
 		French:"+10% science et production dans toutes les villes"
+		Dutch:"+10% wetenschap en productie in alle steden"
 	}
 	
 	"Improves movement speed on roads":{ //Is this a duplicate? It appears 2 items back also. --> I removed the dup.
@@ -1299,6 +1305,7 @@
 		Simplified_Chinese:"提高道路上的移动速度"
 		Portuguese:"Melhora velocidade de movimento em estradas"
 		German:"Erhöht die Bewegungsgeschwindigkeit auf Straßen"
+		Dutch:"Verhoogt de bewegingssnelheid op wegen"
 	}
 
 	"Enables conversion of city production to science":{
@@ -1310,6 +1317,7 @@
 		Simplified_Chinese:"可将城市产能转化为科研"
 		Portuguese:"Habilita a conversão de produção das cidades para ciência"
 		German:"Erlaubt das Umwandeln von städtischer Produktion in Wissenschaft"
+		Dutch:"Maakt het mogelijk om stadsproductie om te vormen naar wetenschap"
 	}
 
 	"Enables conversion of city production to gold":{
@@ -1321,6 +1329,7 @@
 		Simplified_Chinese:"可将城市产能转化为金钱"
 		Portuguese:"Habilita a conversão da produção das cidades para ouro"
 		German:"Erlaubt das Umwandeln von städtischer Produktion in Gold"
+		Dutch:"Maakt het mogelijk om stadsproductie om te vormen naar goud"
 	}
 	
 	"Enables embarkation for land units":{
@@ -1332,6 +1341,7 @@
 		Russian:"Позволяет наземным единицам передвигаться по воде"
 		Simplified_Chinese:"陆军单位拥有船运能力"
 		Portuguese:"Permite o embarque de unidades terrestres"
+		Dutch:"Maakt water toegankelijk voor landeenheden"
 	}
 	
 	"Enables embarked units to enter ocean tiles":{
@@ -1343,6 +1353,7 @@
 		Russian:"Позволяет наземным единицам выходить в океан"
 		Simplified_Chinese:"拥有船运能力的单位能够进入海洋"
 		Portuguese:"Permite que unidades embarcadas entrem em telhas oceânicas"
+		Dutch:"Maakt oceaantegels toegankelijk"
 	}
 	
 	"Increases embarked movement +1":{
@@ -1366,7 +1377,7 @@
 		Russian:"Древнейший мир"
 		French:"Antiquité"
 		Romanian:"Antichitate"
-		Dutch:"Oude"
+		Dutch:"Prehistorie"
 		Spanish:"Edad antigua"
 		Simplified_Chinese:"远古时代"
 		Portuguese:"Era anciâ"
@@ -1378,7 +1389,7 @@
 		Russian:"Античность" //one word translation
 		French:"Âge classique" //means nothing in french
 		Romanian:"Era clasică"
-		Dutch:"Klasieke"
+		Dutch:"Klasieke Oudheid"
 		Spanish:"Edad clásica"
 		Simplified_Chinese:"古典时代"
 		Portuguese:"Era clássica"
@@ -1390,7 +1401,7 @@
 		Russian:"Средневековье" //one word translation
 		French:"Moyen Âge"
 		Romanian:"Evul mediu"
-		Dutch:"Middeleeuwse"
+		Dutch:"Middeleeuwen"
 		Spanish:"Edad medieval"
 		Simplified_Chinese:"中古时代"
 		Portuguese:"Era medieval"
@@ -1414,7 +1425,7 @@
 		Russian:"Новейшее время"
 		French:"Ère industrielle" //or Révolution Industrielle
 		Romanian:"Epoca industrială"
-		Dutch:"Industrieele"
+		Dutch:"Industrieel tijdperk"
 		Spanish:"Era industrial"
 		Simplified_Chinese:"工业时代"
 		Portuguese:"Era industrial"
@@ -1426,7 +1437,7 @@
 		Russian:"Современность" //one word translation
 		French:"Ère contemporaine"
 		Romanian:"Epoca modernă"
-		Dutch:"Moderne"
+		Dutch:"Modern tijdperk"
 		Spanish:"Edad moderna"
 		Simplified_Chinese:"电气时代"
 		Portuguese:"Era moderna"
@@ -1438,7 +1449,7 @@
 		Russian:"Информационная эра" //translation+ [newEra]
 		French:"Ère médiatique"
 		Romanian:"Era informațională"
-		Dutch:"Informatie"
+		Dutch:"Informatica tijdperk"
 		Spanish:"Era de la información"
 		Simplified_Chinese:"信息时代"
 		Portuguese:"Era informação"
@@ -1450,7 +1461,7 @@
 		Russian:"Будущее" //all one word translation
 		French:"Ère du futur" 
 		Romanian:"Era viitorului"
-		Dutch:"Toekomst"
+		Dutch:"Toekomstig tijdperk"
 		Spanish:"Era futura"
 		Simplified_Chinese:"未来时代"
 		Portuguese:"Era futurista" //Futurista means futuristic if you want it replaced just put futura (same as spanish) in its place.
