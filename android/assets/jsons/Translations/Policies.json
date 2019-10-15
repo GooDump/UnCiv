@@ -77,6 +77,7 @@
 		Portuguese:"Aristocracia"
 		German:"Aristokratie"
 		French:"Aristocratie"
+		Dutch:"Aristocratie"
 	}
 
 	"+15% production when constructing wonders, +1 happiness for every 10 citizens in a city":{
@@ -121,6 +122,7 @@
 		Portuguese:"Oligarquia"
 		German:"Oligarchie"
 		French:"Oligarchie"
+		Dutch:"Oligarchie"
 	}
 
 	"Units in cities cost no Maintenance, garrisoned city +50% attacking strength":{ // need to correct all languages
@@ -166,6 +168,7 @@
 		Portuguese:"Monarquia"
 		German:"Monarchie"
 		French:"Monarchie"
+		Dutch:"Monarchie"
 	}
 
 	"+1 gold and -1 unhappiness for every 2 citizens in capital":{
@@ -212,6 +215,7 @@
 		Portuguese:"Liberdade"
 		German:"Unabhängigkeit"
 		French:"Liberté"
+		Dutch:"Vrijheid"
 	}
 
 	"+1 culture in every city":{
@@ -223,6 +227,7 @@
 		Portuguese:"+1 cultura em todas as cidades"
 		German:"+1 Kultur in jeder Stadt"
 		French:"+1 Culture dans toutes les villes"
+		Dutch:"+1 Cultuur in elke stad"
 	}
 
 	"Collective Rule":{
@@ -256,6 +261,7 @@
 		Portuguese:"Cidadania"
 		German:"Staatsbürgerschaft"
 		French:"Citoyenneté"
+		Dutch:"Burgerschap"
 	}
 
 	"Tile improvement speed +25%, receive a free worker near the capital":{
@@ -278,6 +284,7 @@
 		Portuguese:"Republica"
 		German:"Republik"
 		French:"République"
+		Dutch:"Republiek"
 	}
 
 	"+1 construction in every city, +5% construction when constructing buildings":{
@@ -300,6 +307,7 @@
 		Portuguese:"Representação"
 		German:"Repräsentation"
 		French:"Représentation"
+		Dutch:"Representatie"
 	}
 
 	"Each city founded increases culture cost of policies 33% less than normal. Starts a golden age.":{
@@ -322,6 +330,7 @@
 		Portuguese:"Meritocracia"
 		German:"Meritokratie"
 		French:"Méritocratie"
+		Dutch:"Meritocratie"
 	}
 
 	"+1 happiness for every city connected to capital, -5% unhappiness from citizens":{
@@ -368,6 +377,7 @@
 		Russian:"Честь"
 		German:"Ehre"
 		French:"Honneur"
+		Dutch:"Eer"
 	}
 
 	"+25% bonus vs Barbarians; gain Culture when you kill a barbarian unit":{ //25% in Vanilla, 33% in G&K
@@ -412,6 +422,7 @@
 		Russian:"Дисциплина"
 		German:"Disziplin"
 		French:"Discipline"
+		Dutch:"Discipline"
 	}
 
 	"+15% combat strength for melee units which have another military unit in an adjacent tile":{
@@ -434,6 +445,7 @@
 		Russian:"Военные традиции"
 		German:"Militärtradition"
 		French:"Tradition militaire"
+		Dutch:"Militaire traditie"
 	}
 
 	"Military units gain 50% more Experience from combat":{
@@ -478,6 +490,7 @@
 		Russian:"Профессиональная армия"
 		German:"Professionelle Armee"
 		French:"Armée de métier"
+		Dutch:"Professioneel leger"
 	}
 
 	"Honor Complete":{
@@ -535,6 +548,7 @@
 		Portuguese:"Religião Organizada"
 		German:"Organisierte Religion"
 		French:"Religion organisée"
+		Dutch:"Georganiseerde religie"
 	}
 
 	"+1 happiness for each monument, temple and monastery":{
@@ -579,6 +593,7 @@
 		Portuguese:"Teocracia"
 		German:"Theokratie"
 		French:"Théocratie"
+		Dutch:"Theocratie"
 	}
 
 	"Temples give +10% gold":{
@@ -601,6 +616,7 @@
 		Portuguese:"Reformação"
 		German:"Reformation"
 		French:"Réforme"
+		Dutch:"Reformatie"
 	}
 
 	"+33% culture in all cities with a world wonder, immediately enter a golden age":{
@@ -623,6 +639,7 @@
 		Portuguese:"Liberdade de Religião"
 		German:"Religionsfreiheit"
 		French:"Tolérance religieuse" //official, or "Religion libre"
+		Dutch:"Godsdienstvrijheid"
 	}
 
 	"+1 culture for each monument, temple and monastery. Gain a free policy.":{
@@ -732,6 +749,7 @@
 		Portuguese:"Comércio"
 		German:"Kommerz"
 		French:"Commerce"
+		Dutch:"Handel"
 	}
 
 	"+25% gold in capital":{
@@ -776,6 +794,7 @@
 		Portuguese:"Mercantilismo"
 		German:"Merkantilismus"
 		French:"Mercantilisme"
+		Dutch:"Mercantilisme"
 	}
 
 	"-25% to purchasing items in cities":{
@@ -798,6 +817,7 @@
 		Portuguese:"Empreendimento"
 		//same in German
 		French:"Entreprenariat"
+		Dutch:"Ondernemerschap"
 	}
 
 	"Great Merchants are earned 25% faster, +1 Science from every Mint, Market, Bank and Stock Exchange.":{
@@ -842,6 +862,7 @@
 		Portuguese:"Protecionismo"
 		German:"Protektionismus"
 		French:"Protectionnisme"
+		Dutch:"Protectionisme"
 	}
 
 	"+1 happiness from each luxury resource":{
@@ -910,6 +931,7 @@
 		Portuguese:"Secularismo"
 		German:"Säkularismus"
 		French:"Laïcité"
+		Dutch:"Secularisme"
 	}
 
 	"+2 science from every specialist":{
@@ -932,6 +954,7 @@
 		Portuguese:"Humanismo"
 		German:"Humanismus"
 		French:"Humanisme"
+		Dutch:"Humanisme"
 	}
 
 	"+1 happiness from every university, observatory and public school":{
@@ -954,6 +977,7 @@
 		Portuguese:"Pensamento Livre"
 		German:"Freies Denken"
 		French:"Liberté de pensée"
+		Dutch:"Vrijdenken"
 	}
 
 	"+1 science from every trading post, +17% science from universities":{
@@ -976,6 +1000,7 @@
 		Portuguese:"Soberania"
 		German:"Souveränität"
 		French:"Souveraineté"
+		Dutch:"Soevereiniteit"
 	}
 
 	"+15% science while empire is happy":{
@@ -998,6 +1023,7 @@
 		Portuguese:"Revolução Ciêntifica"
 		German:"Wissenschaftsrevolution"
 		French:"Révolution scientifique"
+		Dutch:"Wetenschappelijke revolutie"
 	}
 
 	"Gain 2 free technologies":{
@@ -1008,7 +1034,8 @@
 		Simplified_Chinese:"获得2项免费科技"
 		Portuguese:"Ganhe 2 tecnologias grátis"
 		German:"2 kostenlose Technologien"
-		French:"2 technologies gratuites"
+		French:"Gagne 2 technologies gratuites"
+		Dutch:"Krijg 2 gratis technologieën"
 	}
 
 	"Rationalism Complete":{
@@ -1044,6 +1071,7 @@
 		Portuguese:"Liberdade"
 		German:"Freiheit"
 		French:"Liberté"
+		Dutch:"Vrijheid"
 	}
 
 	"+25% great people rate":{
@@ -1066,6 +1094,7 @@
 		Portuguese:"Constituição"
 		German:"Verfassung"
 		French:"Constitution"
+		Dutch:"Grondwet"
 	}
 
 	"+2 culture from each wonder":{
@@ -1132,6 +1161,7 @@
 		Portuguese:"Liberdade de Expressão"
 		German:"Meinungsfreiheit"
 		French:"Liberté de parler"
+		Dutch:"Vrije meningsuiting"
 	}
 
 	"+1 culture for every 2 citizens":{
@@ -1154,6 +1184,7 @@
 		Portuguese:"Democracia"
 		German:"Demokratie"
 		French:"Démocratie"
+		Dutch:"Democratie"
 	}
 
 	"Specialists produce half normal unhappiness":{
@@ -1176,6 +1207,7 @@
 		Portuguese:"Liberdade Completa"
 		German:"Freiheit vollständig"
 		French:"Liberté complète"
+		Dutch:"Vrijheid volledig"
 	}
 
 	"Tile yield from great improvement +100%, golden ages increase by 50%":{
@@ -1200,6 +1232,7 @@
 		Russian:"Автократия"
 		German:"Autokratie"
 		French:"Autocratie"
+		Dutch:"Autocratie"
 	}
 
 	"-33% unit upkeep costs":{
@@ -1222,6 +1255,7 @@
 		Russian:"Популизм"
 		German:"Populismus"
 		French:"Populisme"
+		Dutch:"Populisme"
 	}
 
 	"Wounded military units deal +25% damage":{
@@ -1266,6 +1300,7 @@
 		German:"Faschismus"
 		French:"fascisme"
 		Russian:"Фашизм"
+		Dutch:"Fascisme"
 	}
 
 	"Quantity of strategic resources produced by the empire increased by 100%":{
@@ -1288,6 +1323,7 @@
 		Russian:"Полицейский участок"
 		German:"Polizeistaat"
 		French:"Etat policier"
+		Dutch:"Politiestaat"
 	}
 
 	"Captured cities retain their previous borders":{
