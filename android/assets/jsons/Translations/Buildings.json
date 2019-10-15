@@ -11,6 +11,7 @@
 		Portuguese:"Palácio"
 		German:"Palast"
 		Polish:"Pałac"
+		Dutch:"Paleis"
 }
 
 	"Indicates the capital city":{
@@ -22,6 +23,7 @@
 		French:"Indique la capitale"
 		Polish:"Wskazuje stolicę"
 		Russian:"Показывает столицу"
+		Dutch:"Duidt de hoofdstad aan"
 	}
 	
 	"Monument":{	
@@ -34,6 +36,7 @@
 		Portuguese:"Monumento"
 		German:"Monument"
 		Polish:"Pomnik"
+		Dutch:"Monument"
 	}
 
 	"Granary":{	
@@ -46,6 +49,7 @@
 		Portuguese:"Celeiro"
 		German:"Kornspeicher"
 		Polish:"Spichlerz"
+		Dutch:"Graansilo"
 	}
 
 	"Stone Works":{	
@@ -77,6 +81,7 @@
 		Simplified_Chinese:"巨石阵"
 		Portuguese:"Stonehenge"
 		Polish:"Stonehenge"
+		Dutch:"Stonehenge"
 	}
 
 	"'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle":{
@@ -114,6 +119,7 @@
 		Portuguese:"Livraria"
 		German:"Bibliothek"
 		Polish:"Biblioteka"
+		Dutch:"Bibliotheek"
 	}
 
 	"+1 Science Per 2 Population":{
@@ -172,6 +178,7 @@
 		Portuguese:"Circo"
 		German:"Zirkus"
 		Polish:"Cyrk"
+		Dutch:"Circus"
 	}
 
 	"Walls":{	
@@ -184,6 +191,7 @@
 		Portuguese:"Muralhas"
 		German:"Mauern"
 		Polish:"Mury"
+		Dutch:"Muren"
 	}
 
 	"Walls of Babylon":{
@@ -192,6 +200,7 @@
         	French:"Murs de Babylone"
 		Polish:"Mury Babilonu"
 		Russian:"Стены Вавилона"
+		Dutch:"Muren van Babylon"
 	}
 	
 	"The Pyramids":{	
@@ -204,6 +213,7 @@
 		Portuguese:"Pirâmides"
 		German:"Die Pyramiden"
 		Polish:"Piramidy"
+		Dutch:"De piramides"
 	}
 
 	"'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.'  - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge":{
@@ -217,7 +227,7 @@
 		French:"La vitesse de construction des travailleurs a augmenté de 25%"
 		Romanian:"Construirea de muncitori a crescut cu 25%"
 		German:"Arbeiterproduktion um 25% erhöht"
-		Dutch:"Werkerproducktie met 25% vehoogt"
+		Dutch:"Werkerproductie verhoogt met 25%"
 		Spanish:"+25% velocidad de construcción trabajador"
 		Simplified_Chinese:"设施建造速度+25%"
 		Portuguese:"Velocidade de construção dos trabalhadores aumentada em +25%"
@@ -302,6 +312,7 @@
 		Portuguese:"Templo"
 		German:"Tempel"
 		Polish:"Świątynia"
+		Dutch:"Tempel"
 	}
 
 	"Burial Tomb":{
@@ -313,6 +324,7 @@
 		French:"Tombeau"
 		Polish:"Grobowiec"
 		Russian:"Гробница"
+		Dutch:"Graftombe"
 	}
 
 	/*
@@ -333,6 +345,7 @@
 		Portuguese:"O Oráculo"
 		German:"Das Orakel"
 		Polish:"Wyrocznia"
+		Dutch:"Het orakel"
 	}
 
 	"'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing'  - Socrates":{
@@ -405,6 +418,7 @@
 		German:"Leuchtturm"
 		Polish:"Latarnia morska"
 		Russian:"Маяк"
+		Dutch:"Vuurtoren"
 	}
 
 	"Can only be built in coastal cities":{
@@ -416,6 +430,7 @@
 		German:"Kann nur in Küstenstädten gebaut werden"
 		Polish:"Może być zbudowane tylko w miastach nadbrzeżnych"
 		Russian:"Может быть построен только в прибрежных городах"
+		Dutch:"Kan enkel in kuststeden gebouwd worden"
 	}
 
 	"+1 food from Ocean and Coast tiles":{
@@ -426,6 +441,7 @@
 		Simplified_Chinese:"每个海滨地块和海洋地块+1食物"
 		Polish:"+1 do żywności z pól wybrzeża i oceanicznych"
 		Russian:"+1 Еда от клеток около берега и в океане"
+		Dutch:"+1 voedsel van oceaan- en kusttegels"
 	}
 	
 	"The Great Lighthouse":{
@@ -462,6 +478,7 @@
 		French:"Palais de justice"
 		Polish:"Sąd"
 		Simplified_Chinese:"法庭"
+		Dutch:"Rechtbank"
 	}
 		
 	"Remove extra unhappiness from annexed cities":{
@@ -474,6 +491,7 @@
 	"Can only be built in annexed cities":{
 		Italian:"Costruibile solamente nelle città annesse"
 		Simplified_Chinese:"只能建造在被占领城市"
+		Dutch:"Kan enkel in geannexeerde steden gebouwd worden"
 	}
 
 	"Stable":{	
@@ -486,6 +504,7 @@
 		Portuguese:"Estabulos"
 		German:"Stall"
 		Polish:"Stajnia"
+		Dutch:"Stal"
 	}
 
 	"+15% Production when building Mounted Units in this city":{
@@ -519,6 +538,7 @@
 		Portuguese:"Jardins Suspensos"
 		German:"Hängende Gärten"
 		Polish:"Wiszące Ogrody"
+		Dutch:"Hangende Tuinen"
 	}
 
 	"'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.'  - F. Frankfort Moore":{
@@ -596,6 +616,7 @@
 		Portuguese:"Coliseu"
 		German:"Collosseum"
 		Polish:"Koloseum"
+		Dutch:"Colosseum"
 	}
 	
 	"Terracotta Army":{
@@ -604,6 +625,7 @@
 		French:"Armée de Terre Cuite"
 		Polish:"Terakotowa armia"
 		Russian:"Терракотовая армия"
+		Dutch:"Terracotta leger"
 	}
 
 	"'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.'  - Sun Tzu":{
@@ -621,6 +643,7 @@
 		Portuguese:"Mercado"
 		German:"Markt"
 		Polish:"Targowisko"
+		Dutch:"Markt"
 	}
 	
 	"Bazaar":{ // Arabian unique - transliterate?
@@ -632,6 +655,7 @@
 		French:"Bazar"
 		Russian:"Восточный базар"
 		Polish:"Bazar"
+		Dutch:"Bazaar"
 	}
 	
 	"Provides 1 extra copy of each improved luxury resource near this City":{
@@ -666,6 +690,7 @@
 		Portuguese:"Monastério"
 		German:"Kloster"
 		Polish:"Klasztor"
+		Dutch:"Klooster"
 	}
 
 	"Notre Dame":{	
@@ -678,6 +703,7 @@
 		Portuguese:"Notre Dame"
 		German:"Notre-Dame"
 		Polish:"Notre Dame"
+		Dutch:"Notre Dame"
 	}
 
 	"'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.'  - Victor Hugo":{
@@ -695,6 +721,7 @@
 		Portuguese:"Santa Sofia"
 		German:"Hagia Sophia"
 		Polish:"Hagia Sophia"
+		Dutch:"Hagia Sofia"
 	}
 
 	"'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty'  - Procopius, De Aedificis":{
@@ -767,6 +794,7 @@
 		Portuguese:"Aqueduto"
 		German:"Aquädukt"
 		Polish:"Akwedukt"
+		Dutch:"Aquaduct"
 	}
 
 	"40% of food is carried over after a new citizen is born":{
@@ -788,6 +816,7 @@
 		French:"La Grande Muraille"
 		Polish:"Wielki Mur Chiński"
 		Russian:"Великая стена"
+		Dutch:"De Chinese Muur"
 	}
 
 	"'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.'  - Sun Tzu":{
@@ -813,6 +842,7 @@
 		Portuguese:"Oficina"
 		German:"Werkstatt"
 		Polish:"Warsztat"
+		Dutch:"Atelier"
 	}
 	
 	"Longhouse":{	// Iroquois unique
@@ -851,6 +881,7 @@
 		German:"Hafen"
 		Russian:"Порт"
 		Polish:"Port"
+		Dutch:"Haven"
 	}
 
 	"+1 production from all sea resources worked by the city":{
@@ -887,6 +918,7 @@
 		Portuguese:"Universidade"
 		German:"Universität"
 		Polish:"Uniwersytet"
+		Dutch:"Universiteit"
 	}
 
 	"+2 Science from each worked Jungle tile":{
@@ -920,6 +952,7 @@
 		Portuguese:"Universidade de Oxford"
 		German:"Oxford Universität"
 		Polish:"Uniwersytet Oksfordzki"
+		Dutch:"Universiteit van Oxford"
 	}
 
 	"Castle":{	
@@ -932,6 +965,7 @@
 		Portuguese:"Castelo"
 		German:"Burg"
 		Polish:"Zamek"
+		Dutch:"Kasteel"
 	}
 
 	"Mughal Fort":{	//Indian unique
@@ -1058,6 +1092,7 @@
 		Portuguese:"Observatório"
 		German:"Observatorium"
 		Polish:"Obserwatorium"
+		Dutch:"Observatorium"
 	}
 
 	"Opera House":{	
@@ -1070,6 +1105,7 @@
 		Portuguese:"Casa de Ópera"
 		German:"Opernhaus"
 		Polish:"Opera"
+		Dutch:"Opera"
 	}
 	
 	"Sistine Chapel":{	
@@ -1112,6 +1148,7 @@
 		Portuguese:"Banco"
 		German:"Bank"
 		Polish:"Bank"
+		Dutch:"Bank"
 	}
 	
 	"Hanse":{	//German unique
@@ -1147,6 +1184,7 @@
 		Portuguese:"Palácio Proibido"
 		German:"Verbotener Palast"
 		Polish:"Zakazane miasto"
+		Dutch:"Verboden Paleis"
 	}
 
 	"'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock":{
@@ -1177,6 +1215,7 @@
 		Portuguese:"Teatro"
 		German:"Theater"
 		Polish:"Teatr"
+		Dutch:"Theater"
 	}
 	
 	"Leaning Tower of Pisa":{
@@ -1281,6 +1320,7 @@
 		Portuguese:"Moinho de vento"
 		German:"Windmühle"
 		Polish:"Wiatrak"
+		Dutch:"Windmolen"
 	}
 	
 	"Must not be on hill":{
@@ -1289,6 +1329,7 @@
 		Polish:"Nie może być na wzgórzu"
 		Russian:"Не может быть построено на холме"
 		Simplified_Chinese:"城市不能位于山脉"
+		Dutch:"Mag niet op een heuvel"
 	}
 
 	"Museum":{	
@@ -1300,6 +1341,7 @@
 		Simplified_Chinese:"博物馆"
 		Portuguese:"Museu"
 		Polish:"Muzeum"
+		Dutch:"Museum"
 		//same in German
 	}
 
@@ -1325,6 +1367,7 @@
 		Portuguese:"O Louvre"
 		German:"Der Louvre"
 		Polish:"Luwr"
+		Dutch:"Het Louvre"
 	}
 
 	"'Every genuine work of art has as much reason for being as the earth and the sun'  - Ralph Waldo Emerson":{
@@ -1355,6 +1398,7 @@
 		German:"Seehafen"
 		Polish:"Port morski"
 		Russian:"Морской порт"
+		Dutch:"Zeehaven"
 	}
 
 	"+1 production and gold from all sea resources worked by the city":{
@@ -1391,6 +1435,7 @@
 		Portuguese:"Escola Pública"
 		German:"Öffentliche Schule"
 		Polish:"Szkoła powszechna"
+		Dutch:"Openbare school"
 	}
 	
 	"Hospital":{	
@@ -1403,6 +1448,7 @@
 		Portuguese:"Hospital"
 		German:"Krankenhaus"
 		Polish:"Szpital"
+		Dutch:"Ziekenhuis"
 	}
 
 	"25% of food is carried over after a new citizen is born":{
@@ -1428,6 +1474,7 @@
 		Portuguese:"Fábrica"
 		German:"Fabrik"
 		Polish:"Fabryka"
+		Dutch:"Fabriek"
 	}
 
 	"Stock Exchange":{	
@@ -1440,6 +1487,7 @@
 		Portuguese:"Bolsa de valores"
 		German:"Börse"
 		Polish:"Giełda"
+		Dutch:"Beurs"
 	}
 
     	"Big Ben":{	
