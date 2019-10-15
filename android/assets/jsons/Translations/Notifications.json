@@ -66,6 +66,7 @@
 		Portuguese:"Nós encontramos [civName]!"
 		German:"Wir sind auf [civName] getroffen!"
 		Japanese:"[civName]に遭遇しました。"
+		Dutch:"We ontmoetten [civName]!"
 	}
 		
 	"Cannot provide unit upkeep for [unitName] - unit has been disbanded!":{
@@ -114,7 +115,7 @@
 		French:"[cityName] est en famine!"
 		Romanian:"[cityName] suferă de foame!"
 		German:"[cityName] verhungert!"
-		Dutch:"[cityName] verhongerd!"
+		Dutch:"[cityName] verhongert!"
 		Spanish:"¡[cityName] está muriendo de hambre!"
 		Simplified_Chinese:"[cityName]正在闹饥荒!"
 		Portuguese:"[cityName] está morrendo de fome!"
@@ -139,6 +140,7 @@
 		French:"[wonder] a été construit(e) dans un lointain pays"
 		Russian:"[wonder] был построен в далёких землях"
 		Simplified_Chinese:"[wonder]已在遥远的土地上建成"
+		Dutch:"[wonder] werd gebouwd in een ver land"
 	}
 		
 	"Work has started on [construction]":{
@@ -147,7 +149,7 @@
 		French:"Le travail a commencé sur [construction]"
 		Romanian:"Munca a început pentru [construction]"
 		German:"Arbeit an [construction] hat begonnen"
-		Dutch:"Werk is begonen aan [construction]"
+		Dutch:"Werk is begonnen aan [construction]"
 		Spanish:"Se ha empezado a trabajar en [construction]"
 		Simplified_Chinese:"开始建造/组建：[construction]"
 		Portuguese:"Os trabalhos começaram no(a) [construction]"
@@ -159,6 +161,7 @@
 		French:"[cityName] ne peut plus travailler sur [construction]"
 		Russian:"[cityName] не может продолжать работу над [construction]",
 		Simplified_Chinese:"[cityName]无法继续建造/组建[construction]"
+		Dutch:"[cityName] kan niet verder werken aan [construction]"
 	}
 		
 
@@ -168,7 +171,7 @@
 		French:"[cityname] a élargi ses frontières!"
 		Romanian:"[cityname] și-a extins frontierele!"
 		German:"[cityname] hat seine Grenzen erweitert!"
-		Dutch:"[cityname] heeft zijn grenzen uitgebreid!"
+		Dutch:"De grenzen van [cityname] zijn uitgebreid!"
 		Spanish:"¡[cityname] ha expandido sus fronteras!"
 		Simplified_Chinese:"[cityname]的边界已经扩张！"
 		Portuguese:"[cityname] expandiu seus territórios!"
@@ -234,6 +237,7 @@
 		French:"La cité ennemie [cityName] a attaqué notre [ourUnit]"
 		Russian:"Наш [ourUnit] был атакован вражеским городом [cityName]"
 		Simplified_Chinese:"敌方城市[cityName]攻击了我们的[ourUnit]"
+		Dutch:"Vijandelijke stad [cityName] heeft onze [ourUnit] aangevallen"
 	}
 		
 	"An enemy [unit] has captured [cityname]":{
@@ -280,6 +284,7 @@
 		French:"La cité ennemie [cityName] a détruit notre [ourUnit]"
 		Russian:"Наш [ourUnit] был уничтожен вражеским городом [cityName]"
 		Simplified_Chinese:"敌方城市[cityName]杀死了我们的[ourUnit]"
+		Dutch:"Vijandelijke stad [cityName] heeft onze [ourUnit] vernield"
 	}
 		
 	"An enemy [unit] was destroyed while attacking [cityname]":{
@@ -313,6 +318,7 @@
 		French:"Notre [attackerName] a été intercepté et détruit par un(e) [interceptorName] ennemie"
 		Russian:"Наш [attackerName], был перехвачен и уничтожен вражеским [interceptorName]"
 		Simplified_Chinese:"我们的[attackerName]被敌方的[interceptorName]拦截并摧毁"
+		Dutch:"Onze [attackerName] werd vernield door een onderscheppende [interceptorName]"
 	}
 
 	"Our [interceptorName] intercepted and destroyed an enemy [attackerName]":{
@@ -368,6 +374,7 @@
 		Simplified_Chinese:"在我们的领土附近发现了[amount]个敌方单位"
 		French:"[amount] unités ennemies ont été repérées proche de notre territoire"
 		Russian:"[amount] вражеских юнитов было замечено у нашей территории"
+		Dutch:"[amount] vijandelijke eenheden zijn bij onze gebieden gezien"
 	}
 
 	"[amount] enemy units were spotted in our territory": {
@@ -376,6 +383,7 @@
 		Simplified_Chinese:"在我们的领土内发现了[amount]个敌方单位"
 		French:"[amount] unités ennemies ont été repérées sur notre territoire"
 		Russian:"[amount] вражеских юнитов было замечено на нашей территории"
+		Dutch:"[amount] vijandelijke eenheden zijn binnen onze grenzen gezien"
 	}
 
 	"The civilization of [civName] has been destroyed!":{
@@ -384,7 +392,7 @@
 		French:"La civilisation [civName] a été détruite!"
 		Romanian:"Civilizația [civName] a fost distrusă!"
 		German:"Die Zivilisation [civName] wurde besiegt!"
-		Dutch:"De [civName] beschaving is vernietigt!" //civname has to be an adjective
+		Dutch:"De [civName] beschaving is vernietigd!" //civname has to be an adjective
 		Spanish:"¡La civilización de [civName] ha sido destruida!"
 		Simplified_Chinese:"文明--[civName]已经灭亡！"
 		Portuguese:"A civilização de [civName] foi destruida!"
@@ -396,6 +404,7 @@
 		French:"La Cité état [name] a été détruite"
 		Russian:"Город-государство [name] был уничтожен!"
 		Simplified_Chinese:"城邦--[name]已经灭亡！"
+		Dutch:"De stadstaat [name] werd vernietigd!"
 	}
 		
 	"We have captured a barbarian encampment and recovered [goldAmount] gold!":{ //shouldn't it be "we have destroyed ..." ?
@@ -403,6 +412,7 @@
 		French:"Nous avons capturé un campement barbare et pillé [goldAmount] ors"
 		Russian:"Мы разгромили лагерь варваров и нашли [goldAmount] золота!"
 		Simplified_Chinese:"我们摧毁蛮族营地获得了[goldAmount]金钱！"
+		Dutch:"We hebben een barbarenkamp ingenomen en [goldAmount] goud gevonden!"
 	}
 		
 	"A barbarian [unitType] has joined us!":{
@@ -410,6 +420,7 @@
 		French:"Un [unitType] barbare nous a rejoins!"
 		Russian:"Варварский [unitType] присоединился к нам!"
 		Simplified_Chinese:"蛮族的[unitType]加入了我们！"
+		Dutch:"Een barbaarse [unitType] heeft zich bij ons aangesloten!"
 	}
 		
 	/////////////////	ruins
@@ -481,9 +492,10 @@
 	"[unit] finished exploring.": {
 		Italian:"[unit] non sta più esplorando."
 		German: "[unit] hat die Erkundung abgeschlossen."
-		French:"[unit] a fini d'explorer"
+		French:"[unit] a fini d'explorer."
 		Russian:"[unit] завершил исследование местности."
 		Simplified_Chinese:"[unit]已完成了探索。"
+		Dutch:"[unit] is klaar met verkennen."
 	},
 
 	"[unit] has no work to do.": {
@@ -492,6 +504,7 @@
 		French:"[unit] n'a rien à faire"
 		Russian:"[unit] завершил все доступные работы."
 		Simplified_Chinese:"[unit]处于空闲。"
+		Dutch:"[unit] heeft geen taak."
 	}
 
 	"You're losing control of [name].":{ //When you're about to lose your friendship with a City-State
@@ -540,12 +553,14 @@
 		Italian:"[civName] ha accettato la nostra offerta commerciale."
 		Russian:"[civName] принимает ваше торговое предложение"
 		Simplified_Chinese:"[civName]接受了你的贸易请求"
+		Dutch:"[civName] heeft je handelsvoorstel aanvaard"
 	}
 	
 	"[civName] has denied your trade request":{
 		Italian:"[civName] ha rifiutato la nostra offerta commerciale."
 		Russian:"[civName] отклонил ваше торговое предложение"
 		Simplified_Chinese:"[civName]否决了你的贸易请求"
+		Dutch:"[civName heeft je handelsvoorstel geweigerd"
 	}
 	
 	
@@ -576,12 +591,14 @@
 		Italian:"[nation] ha promesso di smettere di fondare città vicino a noi!"
 		Simplified_Chinese:"[nation]同意停止在我们附近建城！"
 		Russian:"[nation] согласилась прекратить заселять города рядом с нами!"
+		Dutch:"[nation] aanvaardt te stoppen met nieuwe steden nabij ons te stichten!"
 	},
 
  	"[nation] refused to stop settling cities near us!": {
 		Italian:"[nation] ha rifiutato di smettere di fondare città vicino a noi!"
 		Simplified_Chinese:"[nation]拒绝停止在我们附近建城！"
 		Russian:"[nation] отказалась прекратить заселять города рядом с нами!"
+		Dutch:"[nation] weigert te stoppen met nieuwe steden nabij ons te stichten!"
 	},
 	
 }
