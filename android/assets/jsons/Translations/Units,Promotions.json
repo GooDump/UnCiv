@@ -118,7 +118,7 @@
 		French:"Éclaireur"
 		Romanian:"Cercetaș"
 		German:"Kundschafter"
-		Dutch:"Verkening"
+		Dutch:"Verkenner"
 		Spanish:"Explorador"
 		Simplified_Chinese:"侦察单位"
 		Portuguese:"Explorador"
@@ -170,6 +170,7 @@
 		Simplified_Chinese:"工人"
 		Portuguese:"Assalariado" // may change to trabalhador (assalariado means wage earner wich in portuguese has the same meaning of worker it is just another way to put it
 		German:"Arbeiter"
+		Dutch:"Werker"
 	}
 	
 	
@@ -179,7 +180,7 @@
 		French:"Peut construire des améliorations sur les cases"
 		Romanian:"Poate construi îmbunătățiri pe celule"
 		German:"Kann Verbesserungen auf Feldern bauen"
-		Dutch:"Kan verbeteringen op velden bouwen"
+		Dutch:"Kan verbeteringen bouwen op tegels"
 		Spanish:"Puede construir mejoras en casillas"
 		Simplified_Chinese:"可以在地块上建造设施"
 		Portuguese:"Pode construir melhorias em terrenos"
@@ -194,6 +195,7 @@
 		Simplified_Chinese:"斥候"
 		Portuguese:"Explorador"
 		German:"Kundschafter"
+		Dutch:"Verkenner"
 	}
 	
 	
@@ -214,6 +216,7 @@
 		Russian:"Громила"
 		Italian:"Bruto"
 		Simplified_Chinese:"蛮族勇士"
+		Dutch:"Barbaar"
 	}
 
 
@@ -237,6 +240,7 @@
 		Simplified_Chinese:"弓箭手"
 		Portuguese:"Arqueiro"
 		German:"Bogenschütze"
+		Dutch:"Boogschutter"
 	}
 
 	"Bowman":{
@@ -413,6 +417,7 @@
 		Simplified_Chinese:"石弩"
 		Portuguese:"Catapulta"
 		German:"Katapult"
+		Dutch:"Katapult"
 	}	
 
 	"Must set up to ranged attack":{
@@ -474,6 +479,7 @@
 		Simplified_Chinese:"可以建造道路"
 		French:"Peut construire des routes"
 		Russian:"Может строить дороги"
+		Dutch:"Kan wegen bouwen"
 	}
 
 	"Construct road":{ // for unit action button
@@ -481,6 +487,7 @@
 		Simplified_Chinese:"建造道路"
 		French:"Construire une route"
 		Russian:"Построить дорогу"
+		Dutch:"Bouw weg"
 	} 
 	
 	"Horseman":{	
@@ -546,6 +553,7 @@
 		Simplified_Chinese:"弩手"
 		Portuguese:"Besteiro"
 		German:"Armbrustschütze"
+		Dutch:"Kruisboogschutter"
 	}
 
 	"Longbowman":{	
@@ -651,6 +659,7 @@
 		Simplified_Chinese:"骑士"
 		Portuguese:"Cavaleiro"
 		German:"Ritter"
+		Dutch:"Ridder"
 	}
 
 	"Camel Archer":{
@@ -668,6 +677,7 @@
 		Simplified_Chinese:"日本武士"
 		French:"Samuraï"
 		Russian:"Самурай"
+		Dutch:"Samurai"
 	}
 
 	"Combat very likely to create Great Generals":{
@@ -717,6 +727,7 @@
 		Simplified_Chinese:"加农炮"
 		Portuguese:"Canhão"
 		German:"Kanone"
+		Dutch:"Kannon"
 	}
 
 	"Musketman":{	
@@ -774,6 +785,7 @@
 		Portuguese:"Fragata"
 		Russian:"Фрегат"
 		German:"Frigatte"
+		Dutch:"Fregat"
 	}
 
 	"Ship of the Line":{ // English unique
@@ -865,6 +877,7 @@
 		Simplified_Chinese:"火炮"
 		Portuguese:"Artilharia"
 		German:"Artillerie"
+		Dutch:"Artillerie"
 	}
 
 	"Indirect Fire":{
@@ -967,6 +980,7 @@
 		Simplified_Chinese:"能够发现和攻击潜艇单位"
 		French:"Peut attaquer les sous-marins"
 		Russian:"Может атаковать подлодки"
+		Dutch:"Kan duikboten aanvallen"
 	}
 
 	"Machine Gun":{
@@ -977,6 +991,7 @@
 		Russian:"Пулемёт"
 		German:"Maschienengewehr"
 		French:"Mitrailleuse"
+		Dutch:"Machinegeweer"
 	}
 
 	"Anti-Aircraft Gun":{
@@ -1018,6 +1033,7 @@
 		Russian:"Подводная лодка"
 		German:"U-Boot"
 		French:"Sous-marin"
+		Dutch:"Duikboot"
 	}
 
 	"Bonus as Attacker [amount]%":{
@@ -1032,6 +1048,7 @@
 		Simplified_Chinese:"对其他单位隐形"
 		French:"Invisible aux autres" // (unités)
 		Russian:"Невидим остальным"
+		Dutch:"Onzichtbaar voor anderen"
 	}
 
 	"Can only attack water":{
@@ -1039,6 +1056,7 @@
 		Simplified_Chinese:"只能攻击海上目标"
 		French:"Ne peut attaquer que les unités marines"
 		Russian:"Может атаковать только морские юниты"
+		Dutch:"Kan enkel op het water aanvallen"
 	}
 
 	"Carrier":{ // aircrat carrier
@@ -1049,6 +1067,7 @@
 		Russian:"Авианосец"
 		German:"Flugzeugträger"
 		French:"Porte-avions"
+		Dutch:"Vliegdekschip"
 	}
 	
 
@@ -1105,6 +1124,7 @@
 		Russian:"Противотанковое орудие"
 		German:"Panzerabwehr-Kanone"
 		French:"Canon antichar"
+		Dutch:"Anti-tankgeschut"
 	}
 
 
@@ -1136,6 +1156,7 @@
 		Russian:"Парашютист"
 		German:"Fallschirmjäger"
 		French:"Parachutiste"
+		Dutch:"Para's"
 	}
 
 	"Tank":{
@@ -1146,6 +1167,7 @@
 		Russian:"Танк"
 		German:"Panzer"
 		French:"Char"
+		Dutch:"Tank"
 	}
 
 	"Panzer":{ // german unique
@@ -1165,6 +1187,7 @@
 		Simplified_Chinese:"轰炸机"
 		Russian:"Тяжелый бомбардировщик"
 		French:"Bombardier"
+		Dutch:"Bommenwerper"
 	}
 
     	"Mechanized Infantry":{
@@ -1172,6 +1195,7 @@
 		Simplified_Chinese:"机械化步兵"
 		French:"Infantrie mécanisée"
 		Russian:"Мотопехота"
+		Dutch:"Gemechaniseerde infanterie"
 	}
 
     	"Modern Armor":{
@@ -1415,6 +1439,7 @@
 		French:"Choisissez une promotion"
 		Simplified_Chinese:"选择晋升项"
 		Russian:"Повышение"
+		Dutch:"Kies promotie"
 	}
 	
 	" OR ":{// as in "Requires Accuracy I OR Barrage I
@@ -1426,6 +1451,7 @@
 		Russian:" ИЛИ "
 		German:" ODER "
 		French:" OU "
+		Dutch:" OF "
 	}
 	
 	"Bonus vs [unitType]":{
@@ -1458,6 +1484,7 @@
 		French:"Précision I"
 		Russian:"Точность I"
 		Simplified_Chinese:"精准I级"
+		Dutch:"Nauwkeurigheid I"
 	}
 
 	"Accuracy II":{
@@ -1466,6 +1493,7 @@
 		French:"Précision II"
 		Russian:"Точность II"
 		Simplified_Chinese:"精准II级"
+		Dutch:"Nauwkeurigheid II"
 	}
 
 	"Accuracy III":{
@@ -1474,6 +1502,7 @@
 		French:"Précision III"
 		Russian:"Точность III"
 		Simplified_Chinese:"精准III级"
+		Dutch:"Nauwkeurigheid III"
 	}
 
 	"units in open terrain":{
@@ -1643,6 +1672,7 @@
 		French:"unités blessés"
 		Simplified_Chinese:"受伤单位"
 		Russian:"раненые юниты"
+		Dutch:"gewonde eenheden"
 	}
 
 	"Mobility":{
@@ -1684,6 +1714,7 @@
 		French:"Portée"
 		Russian:"Обзор"
 		Simplified_Chinese:"Range"// the unit attribute and the promotions ability have the same name,if we do not solve this problem,i will not translate it.
+		Dutch:"Bereik"
 	}
 
 	"+1 Range":{
@@ -1692,6 +1723,7 @@
 		French:"+1 portée d'attaque"
 		Russian:"+1 Обзор"
 		Simplified_Chinese:"+1射程"
+		Dutch:"+1 bereik"
 	}
 
 	"Ranged attacks may be performed over obstacles":{
@@ -1958,6 +1990,7 @@
 		French:"+2 Portée"
 		Russian:"+2 Дальность"
 		Simplified_Chinese:"+2航程"
+		Dutch:"+2 bereik"
 	}
 
 	"Sortie":{
